@@ -15,7 +15,7 @@
   "active": [
     {
       "token": "0x6707e3D6782f84141182a0c176C8C719337D6D21",
-      "stakingRewardAddress": "0x1b5DCCdaD0FE85280aB67aA7cf6BA4b4e7886143",
+      "stakingRewardAddress": "0x26EB7422C8b756411b0418ca663e0A277dba2498",
       "ended": false,
       "lp": "",
       "name": "",
@@ -28,7 +28,7 @@
     },
     {
       "token": "0x6707e3D6782f84141182a0c176C8C719337D6D21",
-      "stakingRewardAddress": "0x4D43Aae16729B153d5e11FD759fd482006E249d6",
+      "stakingRewardAddress": "0xE4DFD0d273A0E888Ff06e335aC3293A4Ae27DaC6",
       "ended": false,
       "lp": "",
       "name": "",
