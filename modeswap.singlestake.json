@@ -20,9 +20,9 @@
       "lp": "",
       "name": "",
       "depFee": "0",
-      "burnFee": "0",
+      "burnFee": "2",
       "baseToken": "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
-      "rate": 0,
+      "rate": 20000,
       "ending": 1670921264,
       "stakingToken": "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a"
     },
@@ -32,10 +32,10 @@
       "ended": false,
       "lp": "",
       "name": "",
-      "depFee": "0",
+      "depFee": "5",
       "burnFee": "0",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0,
+      "rate": 10000,
       "ending": 1670921264,
       "stakingToken": "0x4200000000000000000000000000000000000006"
     }
