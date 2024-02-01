@@ -1,0 +1,40 @@
+{
+   "name":"Mode LP Farms",
+   "timestamp":"2023-10-01T02:48:18.135Z",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":26
+   },
+   "tags":{
+      
+   },
+   "logoURI":"https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
+   "keywords":[
+      "modeswap",
+      "default"
+   ],
+   "active":[
+     {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a"
+         ],
+         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2148",
+         "ended": false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.1,
+         "rewardsRatio2": 0.9,
+         "voteable": false,
+         "poolPid": 0,
+         "lpName": "MODE-ETH",
+         "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
+         "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
+      }
+   ],
+   "closed":[
+   ]
+}
