@@ -20,7 +20,7 @@
             "0x4200000000000000000000000000000000000006",
             "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a"
          ],
-         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2148",
+         "stakingRewardAddress":"0xca91034924a17389f65c3d7fcc16bf1df18dd67a",
          "ended": false,
          "lp":"",
          "name":"",
@@ -39,7 +39,7 @@
             "0x4200000000000000000000000000000000000006",
             "0xd988097fb8612cc24eeC14542bC03424c656005f"
          ],
-         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2147",
+         "stakingRewardAddress":"0x69d31d3d2a69187bca1a62835e82f07484437ba2",
          "ended": false,
          "lp":"",
          "name":"",
@@ -48,7 +48,7 @@
          "rewardsRatio1": 0.1,
          "rewardsRatio2": 0.9,
          "voteable": false,
-         "poolPid": 0,
+         "poolPid": 1,
          "lpName": "ETH-USDC",
          "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
          "pair":"0x9A7ae66d7A4Be284EaE5ABeCdfAE8E6151fd7D5f"
@@ -58,7 +58,7 @@
             "0xd988097fb8612cc24eeC14542bC03424c656005f",
             "0xf0F161fDA2712DB8b566946122a5af183995e2eD"
          ],
-         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2146",
+         "stakingRewardAddress":"0x4186d5ca28849a3c7433e1f25dc260813c85175e",
          "ended": false,
          "lp":"",
          "name":"",
@@ -67,7 +67,7 @@
          "rewardsRatio1": 0.1,
          "rewardsRatio2": 0.9,
          "voteable": false,
-         "poolPid": 0,
+         "poolPid": 2,
          "lpName": "USDC-USDT",
          "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
          "pair":"0xDC627f6742956D07994b0Bf567CB5708F2C2Dee7"
