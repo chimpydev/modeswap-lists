@@ -1,0 +1,45 @@
+{
+  "name": "ModeSwap Syrups",
+  "timestamp": "2023-10-01T02:48:18.101Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 24
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "modeswap",
+    "default"
+  ],
+  "active": [
+    {
+      "token": "0x6707e3D6782f84141182a0c176C8C719337D6D21",
+      "stakingRewardAddress": "0x299111B4CB3a74328054C32aD447C5f4741ac04e",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "0",
+      "baseToken": "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
+      "rate": 0,
+      "ending": 1670921264,
+      "stakingToken": "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a"
+    },
+    {
+      "token": "0x6707e3D6782f84141182a0c176C8C719337D6D21",
+      "stakingRewardAddress": "0x299111B4CB3a74328054C32aD447C5f4741ac04e",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "0",
+      "baseToken": "0x4200000000000000000000000000000000000006",
+      "rate": 0,
+      "ending": 1670921264,
+      "stakingToken": "0x4200000000000000000000000000000000000006"
+    }
+  ],
+  "closed": [
+  ]
+}
