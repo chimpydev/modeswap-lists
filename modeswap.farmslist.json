@@ -33,6 +33,44 @@
          "lpName": "MODE-ETH",
          "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
          "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xd988097fb8612cc24eeC14542bC03424c656005f"
+         ],
+         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2147",
+         "ended": false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.1,
+         "rewardsRatio2": 0.9,
+         "voteable": false,
+         "poolPid": 0,
+         "lpName": "ETH-USDC",
+         "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
+         "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
+      },
+      {
+         "tokens":[
+            "0xd988097fb8612cc24eeC14542bC03424c656005f",
+            "0xf0F161fDA2712DB8b566946122a5af183995e2eD"
+         ],
+         "stakingRewardAddress":"0x6b98ca299668Ed15852B2952ABAaD9932a7F2146",
+         "ended": false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0xd988097fb8612cc24eeC14542bC03424c656005f",
+         "rate": 0,
+         "rewardsRatio1": 0.1,
+         "rewardsRatio2": 0.9,
+         "voteable": false,
+         "poolPid": 0,
+         "lpName": "USDC-USDT",
+         "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
+         "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
       }
    ],
    "closed":[
