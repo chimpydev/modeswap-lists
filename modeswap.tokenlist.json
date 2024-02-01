@@ -1,0 +1,65 @@
+{
+    "name": "Mode Token List",
+    "timestamp": "2022-10-12T13:46:17.455Z",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 53
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "modeswap",
+      "default"
+    ],
+    "tokens": [
+        {
+            "name": "Mode Token",
+            "address": "0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
+            "symbol": "MODE",
+            "decimals": 18,
+            "chainId": 34443,
+            "logoURI": "https://i.ibb.co/1Lr2w1K/mode-token-1.png"
+        },
+        {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 34443,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 34443,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
+            "name": "Tether USD",
+            "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 34443,
+            "logoURI": "https://i.ibb.co/RNW3Q7C/Cjdowner-Cryptocurrency-Flat-Tether-USDT-512.png"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 34443,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+        },
+        {
+            "name": "DAI Stablecoin",
+            "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 34443,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+        }
+    ]
+  }
