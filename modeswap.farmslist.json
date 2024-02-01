@@ -51,7 +51,7 @@
          "poolPid": 0,
          "lpName": "ETH-USDC",
          "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
-         "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
+         "pair":"0x9A7ae66d7A4Be284EaE5ABeCdfAE8E6151fd7D5f"
       },
       {
          "tokens":[
@@ -70,7 +70,7 @@
          "poolPid": 0,
          "lpName": "USDC-USDT",
          "rewardToken":"0xCcd76EDcA45d2c74Fbb395743156c770cf8E354a",
-         "pair":"0x3966037B21A9B25a5FF203A9cc10e2b51af90a60"
+         "pair":"0xDC627f6742956D07994b0Bf567CB5708F2C2Dee7"
       }
    ],
    "closed":[
